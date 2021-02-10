@@ -38,7 +38,7 @@ TOKEN = config("TOKEN")
 
 SERVER_URL = config("SERVER_URL")
 
-ADMINS = [config("ADMIN1")]
+ADMINS = [982944227,994360629]
 
 bot = telebot.TeleBot(TOKEN)
 server = Flask(__name__)
