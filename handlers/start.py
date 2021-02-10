@@ -23,7 +23,7 @@ def startbot(msg):
         bot.reply_to(
             msg,
             emoji.emojize(
-                ":warning: Sorry but you are not allowed to use this tool. Contact @codefred to get started.",
+                ":warning: Sorry but you are not allowed to use this tool. Contact @sub_c to get started.",
                 use_aliases=True
                 )
         )
